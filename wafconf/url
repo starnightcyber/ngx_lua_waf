@@ -1,0 +1,10 @@
+\.(svn|git|htaccess|bash_history)
+\.(bak|inc|old|mdb|sql|backup|java|class)$
+(vhost|bbs|host|wwwroot|www|site|root|hytop|flashfxp).*\.(rar|zip|tar.gz|7z|tar|gzip)
+(phpmyadmin|jmx-console|jmxinvokerservlet)
+java\.lang
+/(attachments|upimg|images|css|uploadfiles|html|uploads|templets|static|template|data|inc|forumdata|upload|includes|cache|avatar)/(\\w+).(php|asp)
+\.(config|bash_config|bash_history|bash_logout|bash_profile|bashrc|cshrc|gitconfig|python_history)
+\.ssh/(config|authorized_keys|id_dsa|id_rsa|id_rsa.pub|id_dsa.pub|known_hosts)
+
+
