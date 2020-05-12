@@ -9,8 +9,8 @@ ngx_lua_waf_x 基于[ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf)
 ```
 个人阅读代码，增加注释，调整格式；
 补充一些基本规则，规则集源自owasp核心规则集；
-修正已知的bug；
-在个人能力范围内，尽量接收在原项目上的PR；
+TODO:修正已知的bug；
+TODO:在个人能力范围内，尽量接收在原项目上的PR；
 ```
 
 ### 功能
